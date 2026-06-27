@@ -14,7 +14,7 @@ This script controls an LED on GPIO 18 based on commands received over the seria
 
 
 ## 2. Final Project - Smart Thermostat Prototype
-**Summary**
+**Summary**   
 This project built a functional smart thermostat on the Raspberry Pi. It reads temperature from a sensor, maintains a user-defined setpoint using heating or cooling modes, provides visual feedback with PWM LEDs, displays status on an LCD, and sends periodic updates over UART.
 The system solves the problem of prototyping the cyber-physical logic for a smart thermostat before moving to a production cloud-connected device.
 
